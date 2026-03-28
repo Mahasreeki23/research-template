@@ -1,0 +1,17 @@
+# Microsoft Office temporary files
+
+# Word
+~$*.doc
+~$*.docx
+
+# Excel
+~$*.xls
+~$*.xlsx
+
+# PowerPoint
+~$*.ppt
+~$*.pptx
+
+# General temp files
+*.tmp
+*.temp
